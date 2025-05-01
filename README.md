@@ -141,25 +141,7 @@ bash TBomb.sh
 
 The package `toilet` cannot be installed yet on macOS. But TBomb does still work.
 
-### Demonstrative Video:
 
-- Watch Indian Bombing Method [here](https://youtu.be/9KWkwsr_QGw)  
-- Watch International Bombing Method [here](https://youtu.be/JqsHkyIcnPM).  
-
-## Contributors
-
-- Catch **[t0xic0der](https://github.com/t0xic0der)** at https://atlasdoc.netlify.app
-- Check **[Avinash](https://github.com/AvinashReddy3108)** at https://github.com/AvinashReddy3108
-- Mail **[scpketer](https://github.com/scpketer)** at scpketer@protonmail.ch
-- Mail **[0n1cOn3](https://github.com/0n1cOn3)** at 0n1cOn3@gmx.ch
-- Ping **Rieltar** at https://t.me/RieltarReborn
-- Check **[Bishal](https://github.com/kbshal)** at https://github.com/kbshal
-
-
-### Donators:
-
-- **[34D30Y](34db0y@protonmail.com)**
-- **SC AMAN**
 
 ### TODO:
 
